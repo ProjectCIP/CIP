@@ -1,0 +1,23 @@
+﻿  LibCIPSI1.c
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(360,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(361,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(362,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(364,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(368,13): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(369,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(373,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(376,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(380,13): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(381,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(385,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(388,11): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(392,13): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(393,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(397,12): warning C4133: 'fonction' : types incompatibles - de 'FILE *' à 'const char *const '
+C:\Doc\Git CIP\Projet_CIP\Projet_CIP\LibCIPSI1.c(645,1): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+  LibOutils.c
+  Librairie.c
+  Main.c
+  Génération de code en cours...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Doc\Git CIP\Projet_CIP\x64\Debug\Projet_CIP.exe : fatal error LNK1120: 1 externes non résolus

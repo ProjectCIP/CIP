@@ -146,9 +146,9 @@
     <ClCompile Include="Main.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LibCIPSI1.h" />
-    <ClInclude Include="LibOutils.h" />
-    <ClInclude Include="Librairie.h" />
+    <ClInclude Include="..\..\include\LibCIPSI1.h" />
+    <ClInclude Include="..\..\include\LibOutils.h" />
+    <ClInclude Include="..\..\include\Librairie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

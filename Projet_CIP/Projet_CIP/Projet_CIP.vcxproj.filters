@@ -29,13 +29,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Librairie.h">
+    <ClInclude Include="..\..\include\LibCIPSI1.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="LibOutils.h">
+    <ClInclude Include="..\..\include\LibOutils.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="LibCIPSI1.h">
+    <ClInclude Include="..\..\include\Librairie.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>

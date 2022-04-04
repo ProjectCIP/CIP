@@ -3,26 +3,16 @@
 #include <string.h>
 #include <float.h>
 #include <math.h>
-#include <time.h>
-#include <cstdio> 
-
+#include<time.h>
 
 #include "LibOutils.h"
 #include "libCIPSI1.h"
-
-
+#include "Librairie.h"
 
 void main(void) {
-
-	int nb_img_select = 0;
-
-
-	printf("\nSelectionnez le nombre d'image à traiter"); scanf("%d", &nb_img_select);
-	
-	for (int i = 0; i < nb_img_select; i++ )
-	{
-	
-	
-	}
-
-}
+	int Nb = 0;
+	BNDBOX* res = NULL;
+	char* Img = "Annotations\\BloodImage_00003.xml";
+	res = ReadBndBox(Img, &Nb);
+	printf("%d", Nb);
+};
